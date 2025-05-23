@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "Thegioiwhey Core",
+      name: "Devlord Express.Js & typescript boilerplate",
       script: "dist/index.js",
       exec_mode: "cluster",
       instances: 1,
